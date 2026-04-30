@@ -1,4 +1,4 @@
-# Qred Assignment — API Backend
+# Qred — API Backend
 
 ## Task 1 Solution
 
